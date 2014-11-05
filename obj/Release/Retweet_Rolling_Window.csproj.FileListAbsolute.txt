@@ -1,0 +1,9 @@
+C:\Users\Richard\documents\visual studio 2013\Projects\Retweet_Rolling_Window\Retweet_Rolling_Window\bin\Release\Retweet_Rolling_Window.exe.config
+C:\Users\Richard\documents\visual studio 2013\Projects\Retweet_Rolling_Window\Retweet_Rolling_Window\bin\Release\Retweet_Rolling_Window.exe
+C:\Users\Richard\documents\visual studio 2013\Projects\Retweet_Rolling_Window\Retweet_Rolling_Window\bin\Release\Retweet_Rolling_Window.pdb
+C:\Users\Richard\documents\visual studio 2013\Projects\Retweet_Rolling_Window\Retweet_Rolling_Window\bin\Release\Newtonsoft.Json.dll
+C:\Users\Richard\documents\visual studio 2013\Projects\Retweet_Rolling_Window\Retweet_Rolling_Window\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Richard\documents\visual studio 2013\Projects\Retweet_Rolling_Window\Retweet_Rolling_Window\bin\Release\Newtonsoft.Json.xml
+C:\Users\Richard\documents\visual studio 2013\Projects\Retweet_Rolling_Window\Retweet_Rolling_Window\obj\Release\Retweet_Rolling_Window.csprojResolveAssemblyReference.cache
+C:\Users\Richard\documents\visual studio 2013\Projects\Retweet_Rolling_Window\Retweet_Rolling_Window\obj\Release\Retweet_Rolling_Window.exe
+C:\Users\Richard\documents\visual studio 2013\Projects\Retweet_Rolling_Window\Retweet_Rolling_Window\obj\Release\Retweet_Rolling_Window.pdb
